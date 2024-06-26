@@ -1,6 +1,6 @@
 # .github/worflows
 
-name Reusable workflow
+name: Reusable workflow
 
 on:
   workflow_call:
